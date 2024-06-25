@@ -1,13 +1,15 @@
 # command 
 [build]
+
 benchmark]$ mvn clean
 benchmark]$ mvn package -DskipTests -Dcheckstyle.skip -e
 
-[worker]
+[worker start]
 1) benchmark]$ bin/benchmark-worker --port 8078 --stats-port 8079
 2) benchmark]$ bin/benchmark-worker --port 8088 --stats-port 8089
 
-[driver]
+[driver start]
+
 3) benchmark]$ bin/benchmark --drivers driver-federatedTwin/federatedtwin-exactly-once.yaml --workers http://127.0.0.1:8078,http://127.0.0.1:8088 --output output.json workloads/1-topic-3-partition-100b-mirrorlake.yaml
 
 
