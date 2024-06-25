@@ -1,0 +1,8 @@
+io/openmessaging/benchmark/driver/jms/JMSBenchmarkProducer.class
+io/openmessaging/benchmark/driver/jms/config/JMSConfig$AddProperty.class
+io/openmessaging/benchmark/driver/jms/config/JMSConfig.class
+io/openmessaging/benchmark/driver/jms/JMSBenchmarkTransactionProducer.class
+io/openmessaging/benchmark/driver/jms/JMSBenchmarkProducer$1.class
+io/openmessaging/benchmark/driver/jms/JMSBenchmarkDriver.class
+io/openmessaging/benchmark/driver/jms/JMSBenchmarkConsumer.class
+io/openmessaging/benchmark/driver/jms/JMSBenchmarkTransactionProducer$1.class

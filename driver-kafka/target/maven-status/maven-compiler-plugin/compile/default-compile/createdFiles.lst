@@ -1,0 +1,5 @@
+io/openmessaging/benchmark/driver/kafka/KafkaBenchmarkDriver.class
+io/openmessaging/benchmark/driver/kafka/KafkaBenchmarkConsumer.class
+io/openmessaging/benchmark/driver/kafka/Config.class
+io/openmessaging/benchmark/driver/kafka/KafkaBenchmarkProducer.class
+io/openmessaging/benchmark/driver/kafka/KafkaTopicCreator.class

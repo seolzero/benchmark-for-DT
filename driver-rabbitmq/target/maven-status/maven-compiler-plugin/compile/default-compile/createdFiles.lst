@@ -1,0 +1,10 @@
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqConfig.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqConfig$QueueType$3.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqConfig$QueueType.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqConfig$QueueType$1.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqConfig$1.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqBenchmarkProducer.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqBenchmarkDriver.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqBenchmarkProducer$1.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqConfig$QueueType$2.class
+io/openmessaging/benchmark/driver/rabbitmq/RabbitMqBenchmarkConsumer.class

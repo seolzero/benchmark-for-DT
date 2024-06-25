@@ -1,0 +1,4 @@
+io/openmessaging/benchmark/driver/kop/config/ClientType.class
+io/openmessaging/benchmark/driver/kop/KopBenchmarkDriver.class
+io/openmessaging/benchmark/driver/kop/config/Config.class
+io/openmessaging/benchmark/driver/kop/config/PulsarConfig.class

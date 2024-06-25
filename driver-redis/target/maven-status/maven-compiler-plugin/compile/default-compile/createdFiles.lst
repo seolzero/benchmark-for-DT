@@ -1,0 +1,4 @@
+io/openmessaging/benchmark/driver/redis/RedisBenchmarkConsumer.class
+io/openmessaging/benchmark/driver/redis/RedisBenchmarkProducer.class
+io/openmessaging/benchmark/driver/redis/client/RedisClientConfig.class
+io/openmessaging/benchmark/driver/redis/RedisBenchmarkDriver.class

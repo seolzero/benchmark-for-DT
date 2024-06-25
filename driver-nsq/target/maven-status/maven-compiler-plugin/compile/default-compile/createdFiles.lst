@@ -1,0 +1,4 @@
+io/openmessaging/benchmark/driver/nsq/NsqConfig.class
+io/openmessaging/benchmark/driver/nsq/NsqBenchmarkConsumer.class
+io/openmessaging/benchmark/driver/nsq/NsqBenchmarkProducer.class
+io/openmessaging/benchmark/driver/nsq/NsqBenchmarkDriver.class

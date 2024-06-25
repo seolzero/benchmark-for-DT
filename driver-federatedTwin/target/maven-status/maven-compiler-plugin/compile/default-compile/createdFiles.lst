@@ -1,0 +1,5 @@
+io/openmessaging/benchmark/driver/federatedtwin/FDTtopicCreator.class
+io/openmessaging/benchmark/driver/federatedtwin/FDTbenchmarkDriver.class
+io/openmessaging/benchmark/driver/federatedtwin/FDTbenchmarkConsumer.class
+io/openmessaging/benchmark/driver/federatedtwin/FDTbenchmarkProducer.class
+io/openmessaging/benchmark/driver/federatedtwin/Config.class

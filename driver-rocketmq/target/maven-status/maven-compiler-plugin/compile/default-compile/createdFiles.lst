@@ -1,0 +1,5 @@
+io/openmessaging/benchmark/driver/rocketmq/client/RocketMQClientConfig.class
+io/openmessaging/benchmark/driver/rocketmq/RocketMQBenchmarkProducer$1.class
+io/openmessaging/benchmark/driver/rocketmq/RocketMQBenchmarkProducer.class
+io/openmessaging/benchmark/driver/rocketmq/RocketMQBenchmarkConsumer.class
+io/openmessaging/benchmark/driver/rocketmq/RocketMQBenchmarkDriver.class

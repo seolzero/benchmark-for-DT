@@ -1,0 +1,5 @@
+io/openmessaging/benchmark/driver/nats/NatsConfig.class
+io/openmessaging/benchmark/driver/nats/NatsBenchmarkConsumer.class
+io/openmessaging/benchmark/driver/nats/NatsBenchmarkDriver$1.class
+io/openmessaging/benchmark/driver/nats/NatsBenchmarkDriver.class
+io/openmessaging/benchmark/driver/nats/NatsBenchmarkProducer.class

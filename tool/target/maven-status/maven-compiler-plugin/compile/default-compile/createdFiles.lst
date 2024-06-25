@@ -1,0 +1,5 @@
+io/openmessaging/benchmark/tool/workload/WorkloadGenerator.class
+io/openmessaging/benchmark/tool/workload/WorkloadSetTemplate.class
+io/openmessaging/benchmark/tool/workload/WorkloadNameFormat.class
+io/openmessaging/benchmark/tool/workload/WorkloadGenerationTool$Arguments.class
+io/openmessaging/benchmark/tool/workload/WorkloadGenerationTool.class
